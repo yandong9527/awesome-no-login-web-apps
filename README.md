@@ -1,4 +1,4 @@
-# Awesome Web Apps (that work without login)
+# Awesome Web Apps (that work without login)# 非常棒的网页应用（无需登录即可使用）
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
@@ -14,7 +14,7 @@ To save the world from creating user accounts and installing software applicatio
 
 #### Some pointers
 
-* The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.
+* The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.* 本列表中链接的网络应用大多无需登录即可使用其核心功能。由于缺乏合适的替代方案，一些需要注册的网站也被列入此列表，这些网站在列表中已标注为 `[Account]`。
 * Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps.
 
 
@@ -175,6 +175,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
+* [ImgPress](https://img.honghuohu.com/) - Free online image compression and conversion tool supporting JPEG, PNG, WebP, GIF, SVG, AVIF. 100% local processing in browser, no upload, no login required.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
@@ -205,52 +206,53 @@ To save the world from creating user accounts and installing software applicatio
 * [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
 * [Stitcher](http://www.stitcher.com/) - Listen to podcast online.
 * [AnyAudio](http://anyaudio.in/) - Stream and download music.
-* [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.
-* [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
-* [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
-* [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
-* [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
-* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
-* [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
-* [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.# 非常棒的网页应用（无需登录即可使用）# 非常棒的网页应用（无需登录即可使用）# 非常棒的网页应用（无需登录即可使用）
+* [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.* [MusixHub](http://www.musixhub.com) - 在线播放艺术家和专辑的视频歌曲，由 YouTube 提供支持。
+* [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.* [plug.dj](https://plug.dj/) - 播放数千名DJ的音乐，由YouTube提供支持，需登录才能成为DJ。
+* [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.* [Jango Radio](http://www.jango.com/) - 免费网络电台，收听数百个不同类型的电台频道，或使用您喜爱的音乐创建属于自己的电台。
+* [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.* [动漫片头曲](http://openings.moe/) - 免费动漫电台，可收听或下载动漫片头和片尾视频。
+* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).* [NoteFlight](https://www.noteflight.com/login) `[账户]` - 打印乐谱，在线创作自己的音乐（评测）。
+* [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).* [ongaku](https://ongaku.js.org/) - 在线动漫音乐电台，提供[桌面端版本](https://github.com/Anshuman-Verma/ongaku-desktop)。
+* [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.* [Radio Garden](http://radio.garden/) - 通过选择地球上的城市，收听全球数千个广播电台。
 
 
-### Notepads and Notebooks
+### Notepads and Notebooks便签本和笔记本
 
-* [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
-* [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
-* [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
-* [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
-* [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
-* [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+* [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.* [aNotepad](https://anotepad.com/) - 使用 Cookie 保存您的笔记，无需用户账户。
+* [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.* [shrib](https://shrib.com/) - 将笔记保存到自定义网址，之后可随时编辑。
+* [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.* [记事本](http:/
+otepad.js.org/) - 支持离线使用的记事本 PWA。
+* [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.* [ProtectedText](https://www.protectedtext.com/) - 无广告、无会话、无 Cookie 的加密笔记。
+* [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.* [Taskade](https://taskade.com/) - 协作笔记、任务列表和提纲。注册可选。
+* [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.* [WriteXO](https://writexo.com/) - 支持富文本、密码保护和自定义网址的在线记事本。
 
 
-### Privacy, Security and Cryptography
+### Privacy, Security and Cryptography隐私、安全与密码学
 
-* [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
-* [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
-* [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
-* [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
-* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
-* [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
-* [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
-* [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
+* [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.* [Cryptii](https://cryptii.com) - 提供模块化转换、编码和加密功能，支持多种密码算法和方法。
+* [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.* [Encipher.it](https://encipher.it/) - AES-256 文本加密与解密。
+* [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.* [加密的 Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - 为您的公开贴文设置密码。
+* [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.* [jotti](https://virusscan.jotti.org) - 扫描任何可疑的文件或电子邮件附件以查找病毒。
+* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.* [scr.im](http://scr.im/) - 自由分享电子邮件地址，无需担心垃圾邮件。
+* [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).* [10分钟邮件](https://10minutemail.com/10MinuteMail/index.html) - 一个为期10分钟的临时有效邮箱地址（可延长）。
+* [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.* [BugMeNot](http://bugmenot.com/) - 一个用于查找和分享不同网站登录信息的平台。它可以帮助你找到登录各类网站所需的凭据。* [BugMeNot](http://bugmenot.com/) - 一个用于查找和分享不同网站登录信息的平台。它可以帮助你找到登录各类网站所需的凭据。* [BugMeNot](http://bugmenot.com/) - 一个用于查找和分享不同网站登录信息的平台。它可以帮助你找到登录各类网站所需的凭据。
+* [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.* [Cloverleaf](https://cloverleaf.app) - 一款开源应用，可替代你的密码管理器，且不会在任何地方存储你的密码。* [Cloverleaf](https://cloverleaf.app) - 一款开源应用，可替代你的密码管理器，且不会在任何地方存储你的密码。* [Cloverleaf](https://cloverleaf.app) - 一款开源应用，可替代你的密码管理器，且不会在任何地方存储你的密码。
 
-### Programming Editors and IDEs
+### Programming Editors and IDEs编程编辑器和集成开发环境编程编辑器和集成开发环境编程编辑器和集成开发环境
 
-* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
-* [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
-* [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
-* [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
-* [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
-* [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
-* [Codepen.io](https://codepen.io/) - Playground for front end web development.
-* [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
-* [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.
-* [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
-* [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
-* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
-* [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.* [TutorialsPoint在线工具](https://www.tutorialspoint.com/codingground.htm) - 提供IPython、Octave、PowerShell、Redis等众多语言的在线终端。同时还有丰富的编程语言集成开发环境（IDE）资源。* [TutorialsPoint在线工具](https://www.tutorialspoint.com/codingground.htm) - 提供IPython、Octave、PowerShell、Redis等众多语言的在线终端。同时还有丰富的编程语言集成开发环境（IDE）资源。* [TutorialsPoint在线工具](https://www.tutorialspoint.com/codingground.htm) - 提供IPython、Octave、PowerShell、Redis等众多语言的在线终端。同时还有丰富的编程语言集成开发环境（IDE）资源。
+* [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.* [Ideone](http://ideone.com/) - 支持大多数主流编程语言的在线IDE。* [Ideone](http://ideone.com/) - 支持大多数主流编程语言的在线IDE。* [Ideone](http://ideone.com/) - 支持大多数主流编程语言的在线IDE。
+* [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.* [codepad](http://codepad.org/) - 一个在线编译器，还支持创建项目（您将获得一个子域名用于项目）。请注意，该工具不支持从标准输入读取。
+* [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.* [Repl.it](https://repl.it/) - 适用于所有主流编程语言的在线终端。* [Repl.it](https://repl.it/) - 适用于所有主流编程语言的在线终端。* [Repl.it](https://repl.it/) - 适用于所有主流编程语言的在线终端。
+* [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.* [Codechef IDE](https://www.codechef.com/ide) - 支持主流语言的简单单文件代码编译器。* [Codechef IDE](https://www.codechef.com/ide) - 支持主流语言的简单单文件代码编译器。* [Codechef IDE](https://www.codechef.com/ide) - 支持主流语言的简单单文件代码编译器。
+* [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.* [Cloud9](https://c9.io/) `[账户]` - 非常强大的在线开发环境，就像你的本地电脑一样。* [Cloud9](https://c9.io/) `[账户]` - 非常强大的在线开发环境，就像你的本地电脑一样。* [Cloud9](https://c9.io/) `[账户]` - 非常强大的在线开发环境，就像你的本地电脑一样。* [Cloud9](https://c9.io/) `[账户]` - 非常强大的在线开发环境，就像你的本地电脑一样。* [Cloud9](https://c9.io/) `[账户]` - 非常强大的在线开发环境，就像你的本地电脑一样。
+* [Codepen.io](https://codepen.io/) - Playground for front end web development.* [Codepen.io](https://codepen.io/) - 前端网页开发的代码编辑器。* [Codepen.io](https://codepen.io/) - 前端网页开发的代码编辑器。* [Codepen.io](https://codepen.io/) - 前端网页开发的代码编辑器。* [Codepen.io](https://codepen.io/) - 前端网页开发的代码编辑器。* [Codepen.io](https://codepen.io/) - 前端网页开发的代码编辑器。
+* [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.* [JS Bin](https://jsbin.com) - 一个协作的网页开发与调试工具。* [JS Bin](https://jsbin.com) - 一个协作的网页开发与调试工具。* [JS Bin](https://jsbin.com) - 一个协作的网页开发与调试工具。* [JS Bin](https://jsbin.com) - 一个协作的网页开发与调试工具。* [JS Bin](https://jsbin.com) - 一个协作的网页开发与调试工具。
+* [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。* [Codenvy](https://codenvy.com) `[账户]` - 专为开发者打造的云工作区，支持包括 Android、Hadoop、Selenium、NodeJS 等在内的主流技术栈。
+* [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。* [SQLFiddle](http://sqlfiddle.com/) - 用于轻松在线测试和分享数据库问题及其解决方案的工具。
+* [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。* [Brainfuck 可视化器](http://fatiherikli.github.io/brainfuck-visualizer/) - 基于 JavaScript 的 Brainfuck 解释器与可视化工具，帮助你理解代码的运行过程。
+* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - 在您的网页浏览器中可视化 Python、Java、JavaScript、TypeScript、Ruby、C 和 C++ 代码的执行过程。
+* [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。* [DartPad](https://dartpad.dartlang.org/) - DartPad 是一个开源工具，允许您在任何现代浏览器中使用 Dart 语言进行开发和实验。
 
 
 ### Programming Tools
@@ -263,7 +265,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
-* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site's speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
